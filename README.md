@@ -6,12 +6,12 @@
 <pre><code>sudo apt-get install -y jq</code></pre>
 
 <li>Cara Pasang SHC</li>
-<pre><code>wget https://raw.githubusercontent.com/SatanTech/encryption/main/shc.sh && chmod +x shc.sh</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/daneshswara29/encryption/main/shc.sh && chmod +x shc.sh</code></pre>
 <li>Jalankan Perintah</li>
 <pre><code>./shc.sh</code></pre>
 
 <li>Cara Pasang BZEXE/BZIP2</li>
-<pre><code>wget https://raw.githubusercontent.com/SatanTech/encryption/main/enc.sh && chmod +x enc.sh</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/daneshswara29/encryption/main/enc.sh && chmod +x enc.sh</code></pre>
 <li>Jalankan Perintah</li>
 <pre><code>./enc.sh</code></pre>
 
